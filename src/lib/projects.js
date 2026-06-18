@@ -17,7 +17,7 @@ const projectModules = import.meta.glob('../../content/projects/*.json', { eager
 const rawProjects = Object.values(projectModules).map((mod) => mod.default ?? mod)
 
 /** Canonical category enum — filters, services, and the v2 admin form all key off it. */
-export const CATEGORIES = ['video', 'motion', 'product', 'graphic']
+export const CATEGORIES = ['motion', 'graphic']
 
 const VIDEO_PROVIDERS = ['youtube', 'vimeo', 'adobe-ccv']
 const DATE_RE = /^\d{4}-\d{2}$/

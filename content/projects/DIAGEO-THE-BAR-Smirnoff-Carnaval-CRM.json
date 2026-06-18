@@ -1,0 +1,68 @@
+{
+  "id": "p-002",
+  "slug": "DIAGEO-THE-BAR-Smirnoff-Carnaval-CRM",
+  "category": "graphic",
+  "title": {
+    "pt": "DIAGEO / THE-BAR - Smirnoff Carnaval (CRM)",
+    "en": "DIAGEO / THE-BAR - Smirnoff Carnaval (CRM)"
+  },
+  "description": {
+    "pt": "",
+    "en": ""
+  },
+  "thumbnail": {
+    "src": "/images/projects/DIAGEO-THE-BAR-Smirnoff-Carnaval-CRM-thumb.webp",
+    "alt": {
+      "pt": "DIAGEO / THE-BAR - Smirnoff Carnaval (CRM)",
+      "en": "DIAGEO / THE-BAR - Smirnoff Carnaval (CRM)"
+    },
+    "width": 1600,
+    "height": 1000
+  },
+  "media": [
+    {
+      "type": "image",
+      "src": "/images/projects/DIAGEO-THE-BAR-Smirnoff-Carnaval-CRM-1.webp",
+      "alt": {
+        "pt": "Image may contain: abstract and screenshot",
+        "en": "Image may contain: abstract and screenshot"
+      },
+      "width": 600,
+      "height": 2060
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/DIAGEO-THE-BAR-Smirnoff-Carnaval-CRM-2.webp",
+      "alt": {
+        "pt": "Image may contain: screenshot and abstract",
+        "en": "Image may contain: screenshot and abstract"
+      },
+      "width": 600,
+      "height": 2060
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/DIAGEO-THE-BAR-Smirnoff-Carnaval-CRM-3.webp",
+      "alt": {
+        "pt": "Image may contain: soft drink, human face and poster",
+        "en": "Image may contain: soft drink, human face and poster"
+      },
+      "width": 800,
+      "height": 418
+    }
+  ],
+  "tools": [
+    "Adobe Photoshop"
+  ],
+  "date": "2026-03",
+  "featured": false,
+  "links": [
+    {
+      "label": {
+        "pt": "Ver no Behance",
+        "en": "View on Behance"
+      },
+      "url": "https://www.behance.net/gallery/246792563/DIAGEO-THE-BAR-Smirnoff-Carnaval-%28CRM%29"
+    }
+  ]
+}

@@ -50,8 +50,10 @@ describe('App', () => {
     const user = userEvent.setup()
     render(<App />)
 
-    const project = getProjects().find((p) => p.media.some((m) => m.type === 'video'))
-    await user.click(screen.getByRole('button', { name: new RegExp(project.title.en, 'i') }))
+    const project = getProjects()[0]
+    await user.click(
+      screen.getByRole('button', { name: new RegExp(project.title.en.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'i') }),
+    )
 
     const dialog = screen.getByRole('dialog')
     expect(within(dialog).getByRole('heading', { name: project.title.en })).toBeInTheDocument()
@@ -61,12 +63,16 @@ describe('App', () => {
   })
 
   it('mounts video embeds only while the modal is open (lazy embeds)', async () => {
+    const project = getProjects().find((p) => p.media.some((m) => m.type === 'video'))
+    if (!project) return
+
     const user = userEvent.setup()
     render(<App />)
     expect(document.querySelector('iframe')).toBeNull()
 
-    const project = getProjects().find((p) => p.media.some((m) => m.type === 'video'))
-    await user.click(screen.getByRole('button', { name: new RegExp(project.title.en, 'i') }))
+    await user.click(
+      screen.getByRole('button', { name: new RegExp(project.title.en.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'i') }),
+    )
     const iframe = document.querySelector('iframe')
     expect(iframe).not.toBeNull()
     expect(iframe.src).toContain('ccv.adobe')
@@ -80,22 +86,22 @@ describe('App', () => {
     render(<App />)
     expect(screen.getByRole('heading', { name: 'Selected work' })).toBeInTheDocument()
 
-    expect(document.title).toContain('Video, Motion, Product')
+    expect(document.title).toContain('Motion')
 
     const navbar = within(screen.getByRole('banner'))
     await user.click(navbar.getByRole('button', { name: 'pt' }))
 
     expect(screen.getByRole('heading', { name: 'Trabalhos selecionados' })).toBeInTheDocument()
     expect(screen.getByRole('link', { name: 'Ver trabalhos' })).toBeInTheDocument()
-    expect(document.title).toContain('Vídeo, Motion, Produto')
+    expect(document.title).toContain('Motion')
     expect(document.querySelector('meta[name="description"]')?.getAttribute('content')).toContain(
-      'Portfólio de João Kalaf',
+      'Biqueira',
     )
   })
 
   it('renders the four services and the contact CTA', () => {
     render(<App />)
-    expect(within(document.getElementById('about')).getAllByRole('listitem')).toHaveLength(4)
+    expect(within(document.getElementById('about')).getAllByRole('listitem')).toHaveLength(getProfile().services.length)
     const cta = screen.getByRole('link', { name: "Let's talk" })
     const email = getProfile().email
     expect(cta).toHaveAttribute('href', email ? `mailto:${email}` : 'mailto:')

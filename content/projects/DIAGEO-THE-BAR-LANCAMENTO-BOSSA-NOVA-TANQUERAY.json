@@ -1,0 +1,48 @@
+{
+  "id": "p-010",
+  "slug": "DIAGEO-THE-BAR-LANCAMENTO-BOSSA-NOVA-TANQUERAY",
+  "category": "graphic",
+  "title": {
+    "pt": "DIAGEO - THE BAR - LANÇAMENTO BOSSA NOVA TANQUERAY",
+    "en": "DIAGEO - THE BAR - LANÇAMENTO BOSSA NOVA TANQUERAY"
+  },
+  "description": {
+    "pt": "",
+    "en": ""
+  },
+  "thumbnail": {
+    "src": "/images/projects/DIAGEO-THE-BAR-LANCAMENTO-BOSSA-NOVA-TANQUERAY-thumb.webp",
+    "alt": {
+      "pt": "DIAGEO - THE BAR - LANÇAMENTO BOSSA NOVA TANQUERAY",
+      "en": "DIAGEO - THE BAR - LANÇAMENTO BOSSA NOVA TANQUERAY"
+    },
+    "width": 1600,
+    "height": 1000
+  },
+  "media": [
+    {
+      "type": "image",
+      "src": "/images/projects/DIAGEO-THE-BAR-LANCAMENTO-BOSSA-NOVA-TANQUERAY-thumb.webp",
+      "alt": {
+        "pt": "DIAGEO - THE BAR - LANÇAMENTO BOSSA NOVA TANQUERAY",
+        "en": "DIAGEO - THE BAR - LANÇAMENTO BOSSA NOVA TANQUERAY"
+      },
+      "width": 1600,
+      "height": 1000
+    }
+  ],
+  "tools": [
+    "Adobe Photoshop"
+  ],
+  "date": "2024-10",
+  "featured": false,
+  "links": [
+    {
+      "label": {
+        "pt": "Ver no Behance",
+        "en": "View on Behance"
+      },
+      "url": "https://www.behance.net/gallery/209178901/DIAGEO-THE-BAR-LANCAMENTO-BOSSA-NOVA-TANQUERAY"
+    }
+  ]
+}

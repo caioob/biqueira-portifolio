@@ -1,0 +1,49 @@
+{
+  "id": "p-047",
+  "slug": "Ilustracao-Tentacao-Urbana",
+  "category": "graphic",
+  "title": {
+    "pt": "Ilustração - Tentação Urbana",
+    "en": "Ilustração - Tentação Urbana"
+  },
+  "description": {
+    "pt": "Releitura do conto Tentação de Clarice Lispector",
+    "en": "Releitura do conto Tentação de Clarice Lispector"
+  },
+  "thumbnail": {
+    "src": "/images/projects/Ilustracao-Tentacao-Urbana-thumb.webp",
+    "alt": {
+      "pt": "Ilustração - Tentação Urbana",
+      "en": "Ilustração - Tentação Urbana"
+    },
+    "width": 1600,
+    "height": 1000
+  },
+  "media": [
+    {
+      "type": "image",
+      "src": "/images/projects/Ilustracao-Tentacao-Urbana-1.webp",
+      "alt": {
+        "pt": "Ilustracao-Tentacao-Urbana",
+        "en": "Ilustracao-Tentacao-Urbana"
+      },
+      "width": 1024,
+      "height": 1024
+    }
+  ],
+  "tools": [
+    "Adobe Photoshop",
+    "Painttool Sai"
+  ],
+  "date": "2017-03",
+  "featured": false,
+  "links": [
+    {
+      "label": {
+        "pt": "Ver no Behance",
+        "en": "View on Behance"
+      },
+      "url": "https://www.behance.net/gallery/49958785/Ilustracao-Tentacao-Urbana"
+    }
+  ]
+}

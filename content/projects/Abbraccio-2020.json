@@ -1,0 +1,298 @@
+{
+  "id": "p-023",
+  "slug": "Abbraccio-2020",
+  "category": "graphic",
+  "title": {
+    "pt": "Abbraccio - 2020",
+    "en": "Abbraccio - 2020"
+  },
+  "description": {
+    "pt": "",
+    "en": ""
+  },
+  "thumbnail": {
+    "src": "/images/projects/Abbraccio-2020-thumb.webp",
+    "alt": {
+      "pt": "Abbraccio - 2020",
+      "en": "Abbraccio - 2020"
+    },
+    "width": 1600,
+    "height": 1000
+  },
+  "media": [
+    {
+      "type": "image",
+      "src": "/images/projects/Abbraccio-2020-1.webp",
+      "alt": {
+        "pt": "Abbraccio-2020",
+        "en": "Abbraccio-2020"
+      },
+      "width": 1600,
+      "height": 1000
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/Abbraccio-2020-2.webp",
+      "alt": {
+        "pt": "Image may contain: book, food and fast food",
+        "en": "Image may contain: book, food and fast food"
+      },
+      "width": 1600,
+      "height": 1000
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/Abbraccio-2020-3.webp",
+      "alt": {
+        "pt": "Abbraccio-2020",
+        "en": "Abbraccio-2020"
+      },
+      "width": 1600,
+      "height": 1000
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/L4rMhQINUuf/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Abbraccio-2020",
+        "en": "Abbraccio-2020"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/Hp49XLRm5-A/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Abbraccio-2020",
+        "en": "Abbraccio-2020"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/GjJJqvKgzXu/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Abbraccio-2020",
+        "en": "Abbraccio-2020"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/-pSYjj-CHH3/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Abbraccio-2020",
+        "en": "Abbraccio-2020"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/AdddS5cuyYh/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Abbraccio-2020",
+        "en": "Abbraccio-2020"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/EZcv255Z5Re/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Abbraccio-2020",
+        "en": "Abbraccio-2020"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/Hfd6Q_gUqRq/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Abbraccio-2020",
+        "en": "Abbraccio-2020"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/2Ko8d7afMtc/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Abbraccio-2020",
+        "en": "Abbraccio-2020"
+      }
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/Abbraccio-2020-4.webp",
+      "alt": {
+        "pt": "Abbraccio-2020",
+        "en": "Abbraccio-2020"
+      },
+      "width": 1600,
+      "height": 1000
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/LBLXvVtLgou/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Abbraccio-2020",
+        "en": "Abbraccio-2020"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/8edFSAJDETF/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Abbraccio-2020",
+        "en": "Abbraccio-2020"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/2QXKFRpBc2M/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Abbraccio-2020",
+        "en": "Abbraccio-2020"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/Tc3gmTsKAJi/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Abbraccio-2020",
+        "en": "Abbraccio-2020"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/Awye7nLg4i4/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Abbraccio-2020",
+        "en": "Abbraccio-2020"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/HRfrnNHWEiU/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Abbraccio-2020",
+        "en": "Abbraccio-2020"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/I2XIr6UMhM9/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Abbraccio-2020",
+        "en": "Abbraccio-2020"
+      }
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/Abbraccio-2020-5.webp",
+      "alt": {
+        "pt": "Abbraccio-2020",
+        "en": "Abbraccio-2020"
+      },
+      "width": 1600,
+      "height": 1000
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/FvR4uuV7RAC/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Abbraccio-2020",
+        "en": "Abbraccio-2020"
+      }
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/Abbraccio-2020-6.webp",
+      "alt": {
+        "pt": "Abbraccio-2020",
+        "en": "Abbraccio-2020"
+      },
+      "width": 1600,
+      "height": 1000
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/UtcNqtSGayd/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Abbraccio-2020",
+        "en": "Abbraccio-2020"
+      }
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/Abbraccio-2020-7.webp",
+      "alt": {
+        "pt": "Abbraccio-2020",
+        "en": "Abbraccio-2020"
+      },
+      "width": 1600,
+      "height": 1000
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/TcI4_aqLtfI/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Abbraccio-2020",
+        "en": "Abbraccio-2020"
+      }
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/Abbraccio-2020-8.webp",
+      "alt": {
+        "pt": "Abbraccio-2020",
+        "en": "Abbraccio-2020"
+      },
+      "width": 1600,
+      "height": 1000
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/Abbraccio-2020-9.webp",
+      "alt": {
+        "pt": "Abbraccio-2020",
+        "en": "Abbraccio-2020"
+      },
+      "width": 1600,
+      "height": 1000
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/Abbraccio-2020-10.webp",
+      "alt": {
+        "pt": "Abbraccio-2020",
+        "en": "Abbraccio-2020"
+      },
+      "width": 1600,
+      "height": 1000
+    }
+  ],
+  "tools": [],
+  "date": "2020-12",
+  "featured": false,
+  "links": [
+    {
+      "label": {
+        "pt": "Ver no Behance",
+        "en": "View on Behance"
+      },
+      "url": "https://www.behance.net/gallery/109209359/Abbraccio-2020"
+    }
+  ]
+}

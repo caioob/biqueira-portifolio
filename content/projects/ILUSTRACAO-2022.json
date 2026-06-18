@@ -1,0 +1,46 @@
+{
+  "id": "p-014",
+  "slug": "ILUSTRACAO-2022",
+  "category": "graphic",
+  "title": {
+    "pt": "ILUSTRAÇÃO 2022",
+    "en": "ILUSTRAÇÃO 2022"
+  },
+  "description": {
+    "pt": "",
+    "en": ""
+  },
+  "thumbnail": {
+    "src": "/images/projects/ILUSTRACAO-2022-thumb.webp",
+    "alt": {
+      "pt": "ILUSTRAÇÃO 2022",
+      "en": "ILUSTRAÇÃO 2022"
+    },
+    "width": 1600,
+    "height": 1000
+  },
+  "media": [
+    {
+      "type": "image",
+      "src": "/images/projects/ILUSTRACAO-2022-1.webp",
+      "alt": {
+        "pt": "Image may contain: cartoon and illustration",
+        "en": "Image may contain: cartoon and illustration"
+      },
+      "width": 1000,
+      "height": 1000
+    }
+  ],
+  "tools": [],
+  "date": "2022-07",
+  "featured": false,
+  "links": [
+    {
+      "label": {
+        "pt": "Ver no Behance",
+        "en": "View on Behance"
+      },
+      "url": "https://www.behance.net/gallery/148540209/ILUSTRACAO-2022"
+    }
+  ]
+}

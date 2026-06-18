@@ -14,7 +14,7 @@ function makeProject(overrides = {}) {
   return {
     id: 'p-100',
     slug: 'projeto-valido',
-    category: 'video',
+    category: 'motion',
     title: text('Projeto'),
     description: text('Descrição'),
     thumbnail: { src: '/images/projects/x.svg', alt: text('Alt') },
@@ -36,7 +36,7 @@ afterEach(() => {
 
 describe('CATEGORIES', () => {
   it('is the canonical enum from the content model', () => {
-    expect(CATEGORIES).toEqual(['video', 'motion', 'product', 'graphic'])
+    expect(CATEGORIES).toEqual(['motion', 'graphic'])
   })
 })
 
@@ -141,7 +141,7 @@ describe('loadProfile', () => {
   })
 
   it('requires exactly one service per category', () => {
-    const missing = makeProfile({ services: makeProfile().services.slice(0, 3) })
+    const missing = makeProfile({ services: makeProfile().services.slice(0, 1) })
     expect(() => loadProfile(missing, strict)).toThrow(/services/)
   })
 
@@ -172,6 +172,6 @@ describe('seed data integration', () => {
   })
 
   it('ships a valid profile', () => {
-    expect(getProfile().services).toHaveLength(4)
+    expect(getProfile().services).toHaveLength(CATEGORIES.length)
   })
 })

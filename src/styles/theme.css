@@ -5,18 +5,17 @@
  */
 @theme {
   /* ── Color (design §2) ─────────────────────────────────── */
-  --color-surface: #fafaf8;
+  --color-surface: #fef6f8;
   --color-surface-raised: #ffffff;
-  --color-ink: #1c1b1a;
-  --color-ink-muted: #6e6a66;
-  --color-line: #e8e5e1;
-  /* accent pending client approval; accent-strong must keep ≥4.5:1 on surface */
-  --color-accent: #e8590c;
-  --color-accent-strong: #c2410c;
+  --color-ink: #3d2b33;
+  --color-ink-muted: #8c6f78;
+  --color-line: #f0d4da;
+  --color-accent: #f4b8c8;
+  --color-accent-strong: #d87e96;
   --color-accent-ink: #ffffff;
 
   /* ── Typography (design §3) ────────────────────────────── */
-  --font-display: 'Rubik', system-ui, -apple-system, sans-serif;
+  --font-display: 'Playfair Display', system-ui, -apple-system, sans-serif;
   --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
 
   --text-display: clamp(2.5rem, 6vw, 4rem);

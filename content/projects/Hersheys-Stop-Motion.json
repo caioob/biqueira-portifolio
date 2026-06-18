@@ -1,0 +1,48 @@
+{
+  "id": "p-035",
+  "slug": "Hersheys-Stop-Motion",
+  "category": "graphic",
+  "title": {
+    "pt": "Hersheys - Stop Motion",
+    "en": "Hersheys - Stop Motion"
+  },
+  "description": {
+    "pt": "Video de apresentação de Marca participante do Fecap Cases 2017",
+    "en": "Video de apresentação de Marca participante do Fecap Cases 2017"
+  },
+  "thumbnail": {
+    "src": "/images/projects/Hersheys-Stop-Motion-thumb.webp",
+    "alt": {
+      "pt": "Hersheys - Stop Motion",
+      "en": "Hersheys - Stop Motion"
+    },
+    "width": 1600,
+    "height": 1000
+  },
+  "media": [
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/QB6sa_T4JJA/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Hersheys-Stop-Motion",
+        "en": "Hersheys-Stop-Motion"
+      }
+    }
+  ],
+  "tools": [
+    "Adobe Premiere Pro",
+    "Adobe Photoshop"
+  ],
+  "date": "2018-01",
+  "featured": false,
+  "links": [
+    {
+      "label": {
+        "pt": "Ver no Behance",
+        "en": "View on Behance"
+      },
+      "url": "https://www.behance.net/gallery/60506769/Hersheys-Stop-Motion"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "p-045",
+  "slug": "Ilustracao-Sailor-Poo",
+  "category": "graphic",
+  "title": {
+    "pt": "Ilustração - Sailor Poo",
+    "en": "Ilustração - Sailor Poo"
+  },
+  "description": {
+    "pt": "",
+    "en": ""
+  },
+  "thumbnail": {
+    "src": "/images/projects/Ilustracao-Sailor-Poo-thumb.webp",
+    "alt": {
+      "pt": "Ilustração - Sailor Poo",
+      "en": "Ilustração - Sailor Poo"
+    },
+    "width": 1600,
+    "height": 1000
+  },
+  "media": [
+    {
+      "type": "image",
+      "src": "/images/projects/Ilustracao-Sailor-Poo-1.webp",
+      "alt": {
+        "pt": "Ilustracao-Sailor-Poo",
+        "en": "Ilustracao-Sailor-Poo"
+      },
+      "width": 1280,
+      "height": 1024
+    }
+  ],
+  "tools": [
+    "Adobe Photoshop",
+    "Painttool Sai"
+  ],
+  "date": "2017-03",
+  "featured": false,
+  "links": [
+    {
+      "label": {
+        "pt": "Ver no Behance",
+        "en": "View on Behance"
+      },
+      "url": "https://www.behance.net/gallery/49959051/Ilustracao-Sailor-Poo"
+    }
+  ]
+}

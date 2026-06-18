@@ -1,0 +1,45 @@
+{
+  "id": "p-029",
+  "slug": "IM-PERFEITAS",
+  "category": "graphic",
+  "title": {
+    "pt": "(IM) PERFEITAS",
+    "en": "TRANSLATE:(IM) PERFEITAS"
+  },
+  "description": {
+    "pt": "Motion de abertura do projeto e web série Imperfeitas de Paola Churchil Bigal",
+    "en": "TRANSLATE:Motion de abertura do projeto e web série Imperfeitas de Paola Churchil Bigal"
+  },
+  "thumbnail": {
+    "src": "/images/projects/IM-PERFEITAS-thumb.webp",
+    "alt": {
+      "pt": "(IM) PERFEITAS",
+      "en": "TRANSLATE:(IM) PERFEITAS"
+    },
+    "width": 1600,
+    "height": 1000
+  },
+  "media": [
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/NdDvgF6u_C-/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "IM-PERFEITAS",
+        "en": "TRANSLATE:IM-PERFEITAS"
+      }
+    }
+  ],
+  "tools": [],
+  "date": "2020-01",
+  "featured": false,
+  "links": [
+    {
+      "label": {
+        "pt": "Ver no Behance",
+        "en": "View on Behance"
+      },
+      "url": "https://www.behance.net/gallery/90983227/%28IM%29-PERFEITAS"
+    }
+  ]
+}

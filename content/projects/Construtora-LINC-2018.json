@@ -1,0 +1,124 @@
+{
+  "id": "p-032",
+  "slug": "Construtora-LINC-2018",
+  "category": "graphic",
+  "title": {
+    "pt": "Construtora LINC (2018)",
+    "en": "Construtora LINC (2018)"
+  },
+  "description": {
+    "pt": "",
+    "en": ""
+  },
+  "thumbnail": {
+    "src": "/images/projects/Construtora-LINC-2018-thumb.webp",
+    "alt": {
+      "pt": "Construtora LINC (2018)",
+      "en": "Construtora LINC (2018)"
+    },
+    "width": 1600,
+    "height": 1000
+  },
+  "media": [
+    {
+      "type": "image",
+      "src": "/images/projects/Construtora-LINC-2018-1.webp",
+      "alt": {
+        "pt": "Construtora-LINC-2018",
+        "en": "Construtora-LINC-2018"
+      },
+      "width": 900,
+      "height": 900
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/Construtora-LINC-2018-2.webp",
+      "alt": {
+        "pt": "Construtora-LINC-2018",
+        "en": "Construtora-LINC-2018"
+      },
+      "width": 900,
+      "height": 900
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/Construtora-LINC-2018-3.webp",
+      "alt": {
+        "pt": "Construtora-LINC-2018",
+        "en": "Construtora-LINC-2018"
+      },
+      "width": 900,
+      "height": 900
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/2o-FyKsiUkQ/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Construtora-LINC-2018",
+        "en": "Construtora-LINC-2018"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/GmUczapvJCb/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Construtora-LINC-2018",
+        "en": "Construtora-LINC-2018"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/VGJtNyQgU4b/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Construtora-LINC-2018",
+        "en": "Construtora-LINC-2018"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/FUzBJmMIAXA/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Construtora-LINC-2018",
+        "en": "Construtora-LINC-2018"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/DsFVrUwSwzs/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Construtora-LINC-2018",
+        "en": "Construtora-LINC-2018"
+      }
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/Construtora-LINC-2018-4.webp",
+      "alt": {
+        "pt": "Construtora-LINC-2018",
+        "en": "Construtora-LINC-2018"
+      },
+      "width": 800,
+      "height": 600
+    }
+  ],
+  "tools": [
+    "Adobe Photoshop",
+    "Adobe After Effects"
+  ],
+  "date": "2019-07",
+  "featured": false,
+  "links": [
+    {
+      "label": {
+        "pt": "Ver no Behance",
+        "en": "View on Behance"
+      },
+      "url": "https://www.behance.net/gallery/83591479/Construtora-LINC-%282018%29"
+    }
+  ]
+}

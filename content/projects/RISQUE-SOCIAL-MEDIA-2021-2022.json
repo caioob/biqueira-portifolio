@@ -1,0 +1,100 @@
+{
+  "id": "p-017",
+  "slug": "RISQUE-SOCIAL-MEDIA-2021-2022",
+  "category": "graphic",
+  "title": {
+    "pt": "RISQUÉ - SOCIAL MEDIA 2021 -2022",
+    "en": "RISQUÉ - SOCIAL MEDIA 2021 -2022"
+  },
+  "description": {
+    "pt": "",
+    "en": ""
+  },
+  "thumbnail": {
+    "src": "/images/projects/RISQUE-SOCIAL-MEDIA-2021-2022-thumb.webp",
+    "alt": {
+      "pt": "RISQUÉ - SOCIAL MEDIA 2021 -2022",
+      "en": "RISQUÉ - SOCIAL MEDIA 2021 -2022"
+    },
+    "width": 1600,
+    "height": 1000
+  },
+  "media": [
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/RrVnfBQ_nQN/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "RISQUE-SOCIAL-MEDIA-2021-2022",
+        "en": "RISQUE-SOCIAL-MEDIA-2021-2022"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/CTkWKCD-qr8/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "RISQUE-SOCIAL-MEDIA-2021-2022",
+        "en": "RISQUE-SOCIAL-MEDIA-2021-2022"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/JP9vqoZcLXx/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "RISQUE-SOCIAL-MEDIA-2021-2022",
+        "en": "RISQUE-SOCIAL-MEDIA-2021-2022"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/Tdi6Nn22zZB/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "RISQUE-SOCIAL-MEDIA-2021-2022",
+        "en": "RISQUE-SOCIAL-MEDIA-2021-2022"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/HcgLyudCJwm/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "RISQUE-SOCIAL-MEDIA-2021-2022",
+        "en": "RISQUE-SOCIAL-MEDIA-2021-2022"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/WCLh3tpXDU3/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "RISQUE-SOCIAL-MEDIA-2021-2022",
+        "en": "RISQUE-SOCIAL-MEDIA-2021-2022"
+      }
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/RISQUE-SOCIAL-MEDIA-2021-2022-1.webp",
+      "alt": {
+        "pt": "RISQUE-SOCIAL-MEDIA-2021-2022",
+        "en": "RISQUE-SOCIAL-MEDIA-2021-2022"
+      },
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "tools": [],
+  "date": "2022-07",
+  "featured": false,
+  "links": [
+    {
+      "label": {
+        "pt": "Ver no Behance",
+        "en": "View on Behance"
+      },
+      "url": "https://www.behance.net/gallery/148527441/RISQUE-SOCIAL-MEDIA-2021-2022"
+    }
+  ]
+}

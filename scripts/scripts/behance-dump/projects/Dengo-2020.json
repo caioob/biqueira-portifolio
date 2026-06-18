@@ -1,0 +1,188 @@
+{
+  "id": "p-022",
+  "slug": "Dengo-2020",
+  "category": "graphic",
+  "title": {
+    "pt": "Dengo - 2020",
+    "en": "TRANSLATE:Dengo - 2020"
+  },
+  "description": {
+    "pt": "",
+    "en": "TRANSLATE:"
+  },
+  "thumbnail": {
+    "src": "/images/projects/Dengo-2020-thumb.webp",
+    "alt": {
+      "pt": "Dengo - 2020",
+      "en": "TRANSLATE:Dengo - 2020"
+    },
+    "width": 1600,
+    "height": 1000
+  },
+  "media": [
+    {
+      "type": "image",
+      "src": "/images/projects/Dengo-2020-1.webp",
+      "alt": {
+        "pt": "Image may contain: abstract, handwriting and illustration",
+        "en": "TRANSLATE:Image may contain: abstract, handwriting and illustration"
+      },
+      "width": 808,
+      "height": 632
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/Dengo-2020-2.webp",
+      "alt": {
+        "pt": "Dengo-2020",
+        "en": "TRANSLATE:Dengo-2020"
+      },
+      "width": 1159,
+      "height": 1602
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/Dengo-2020-3.webp",
+      "alt": {
+        "pt": "Dengo-2020",
+        "en": "TRANSLATE:Dengo-2020"
+      },
+      "width": 1197,
+      "height": 1655
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/Dengo-2020-4.webp",
+      "alt": {
+        "pt": "Dengo-2020",
+        "en": "TRANSLATE:Dengo-2020"
+      },
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/MoMkuvBLDme/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Dengo-2020",
+        "en": "TRANSLATE:Dengo-2020"
+      }
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/Dengo-2020-5.webp",
+      "alt": {
+        "pt": "Dengo-2020",
+        "en": "TRANSLATE:Dengo-2020"
+      },
+      "width": 600,
+      "height": 1804
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/Dengo-2020-6.webp",
+      "alt": {
+        "pt": "Dengo-2020",
+        "en": "TRANSLATE:Dengo-2020"
+      },
+      "width": 600,
+      "height": 1817
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/Dengo-2020-7.webp",
+      "alt": {
+        "pt": "Dengo-2020",
+        "en": "TRANSLATE:Dengo-2020"
+      },
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/Dengo-2020-8.webp",
+      "alt": {
+        "pt": "Dengo-2020",
+        "en": "TRANSLATE:Dengo-2020"
+      },
+      "width": 1200,
+      "height": 5748
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/JgV4bYTHUeb/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Dengo-2020",
+        "en": "TRANSLATE:Dengo-2020"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/48Avev2Bmzc/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Dengo-2020",
+        "en": "TRANSLATE:Dengo-2020"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/DvnzjHuQMDf/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Dengo-2020",
+        "en": "TRANSLATE:Dengo-2020"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/7Xk7f4iyudD/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Dengo-2020",
+        "en": "TRANSLATE:Dengo-2020"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/AoPbMdSJ8tx/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Dengo-2020",
+        "en": "TRANSLATE:Dengo-2020"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/DPDz7adZCHH/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Dengo-2020",
+        "en": "TRANSLATE:Dengo-2020"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/VwPyEEhpP8P/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Dengo-2020",
+        "en": "TRANSLATE:Dengo-2020"
+      }
+    }
+  ],
+  "tools": [],
+  "date": "2020-12",
+  "featured": false,
+  "links": [
+    {
+      "label": {
+        "pt": "Ver no Behance",
+        "en": "View on Behance"
+      },
+      "url": "https://www.behance.net/gallery/109209783/Dengo-2020"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": "p-007",
+  "slug": "DIAGEO-THE-BAR-TANQUERAY-BOSSA-NOVA-MONIN",
+  "category": "graphic",
+  "title": {
+    "pt": "DIAGEO / THE-BAR - TANQUERAY BOSSA NOVA + MONIN",
+    "en": "TRANSLATE:DIAGEO / THE-BAR - TANQUERAY BOSSA NOVA + MONIN"
+  },
+  "description": {
+    "pt": "",
+    "en": "TRANSLATE:"
+  },
+  "thumbnail": {
+    "src": "/images/projects/DIAGEO-THE-BAR-TANQUERAY-BOSSA-NOVA-MONIN-thumb.webp",
+    "alt": {
+      "pt": "DIAGEO / THE-BAR - TANQUERAY BOSSA NOVA + MONIN",
+      "en": "TRANSLATE:DIAGEO / THE-BAR - TANQUERAY BOSSA NOVA + MONIN"
+    },
+    "width": 1600,
+    "height": 1000
+  },
+  "media": [
+    {
+      "type": "image",
+      "src": "/images/projects/DIAGEO-THE-BAR-TANQUERAY-BOSSA-NOVA-MONIN-1.webp",
+      "alt": {
+        "pt": "Image may contain: bottle, drink and soft drink",
+        "en": "TRANSLATE:Image may contain: bottle, drink and soft drink"
+      },
+      "width": 600,
+      "height": 1240
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/DIAGEO-THE-BAR-TANQUERAY-BOSSA-NOVA-MONIN-2.webp",
+      "alt": {
+        "pt": "Image may contain: bottle, drink and soft drink",
+        "en": "TRANSLATE:Image may contain: bottle, drink and soft drink"
+      },
+      "width": 600,
+      "height": 1240
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/DIAGEO-THE-BAR-TANQUERAY-BOSSA-NOVA-MONIN-3.webp",
+      "alt": {
+        "pt": "Image may contain: bottle, drink and soft drink",
+        "en": "TRANSLATE:Image may contain: bottle, drink and soft drink"
+      },
+      "width": 600,
+      "height": 1240
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/DIAGEO-THE-BAR-TANQUERAY-BOSSA-NOVA-MONIN-4.webp",
+      "alt": {
+        "pt": "Image may contain: bottle, drink and soft drink",
+        "en": "TRANSLATE:Image may contain: bottle, drink and soft drink"
+      },
+      "width": 600,
+      "height": 1240
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/DIAGEO-THE-BAR-TANQUERAY-BOSSA-NOVA-MONIN-5.webp",
+      "alt": {
+        "pt": "Image may contain: bottle and soft drink",
+        "en": "TRANSLATE:Image may contain: bottle and soft drink"
+      },
+      "width": 600,
+      "height": 1306
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/DIAGEO-THE-BAR-TANQUERAY-BOSSA-NOVA-MONIN-6.webp",
+      "alt": {
+        "pt": "Image may contain: bottle and soft drink",
+        "en": "TRANSLATE:Image may contain: bottle and soft drink"
+      },
+      "width": 600,
+      "height": 1306
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/DIAGEO-THE-BAR-TANQUERAY-BOSSA-NOVA-MONIN-7.webp",
+      "alt": {
+        "pt": "Image may contain: bottle and soft drink",
+        "en": "TRANSLATE:Image may contain: bottle and soft drink"
+      },
+      "width": 600,
+      "height": 1306
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/DIAGEO-THE-BAR-TANQUERAY-BOSSA-NOVA-MONIN-8.webp",
+      "alt": {
+        "pt": "Image may contain: bottle and soft drink",
+        "en": "TRANSLATE:Image may contain: bottle and soft drink"
+      },
+      "width": 600,
+      "height": 1306
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/DIAGEO-THE-BAR-TANQUERAY-BOSSA-NOVA-MONIN-9.webp",
+      "alt": {
+        "pt": "Image may contain: bottle, drink and beer",
+        "en": "TRANSLATE:Image may contain: bottle, drink and beer"
+      },
+      "width": 600,
+      "height": 2244
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/DIAGEO-THE-BAR-TANQUERAY-BOSSA-NOVA-MONIN-10.webp",
+      "alt": {
+        "pt": "Image may contain: drink, bottle and soft drink",
+        "en": "TRANSLATE:Image may contain: drink, bottle and soft drink"
+      },
+      "width": 600,
+      "height": 2368
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/DIAGEO-THE-BAR-TANQUERAY-BOSSA-NOVA-MONIN-11.webp",
+      "alt": {
+        "pt": "Image may contain: bottle, drink and soft drink",
+        "en": "TRANSLATE:Image may contain: bottle, drink and soft drink"
+      },
+      "width": 600,
+      "height": 2368
+    }
+  ],
+  "tools": [
+    "Adobe Photoshop"
+  ],
+  "date": "2026-02",
+  "featured": false,
+  "links": [
+    {
+      "label": {
+        "pt": "Ver no Behance",
+        "en": "View on Behance"
+      },
+      "url": "https://www.behance.net/gallery/243405973/DIAGEO-THE-BAR-TANQUERAY-BOSSA-NOVA-MONIN"
+    }
+  ]
+}

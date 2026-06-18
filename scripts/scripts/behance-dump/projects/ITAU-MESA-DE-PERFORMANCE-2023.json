@@ -1,0 +1,177 @@
+{
+  "id": "p-013",
+  "slug": "ITAU-MESA-DE-PERFORMANCE-2023",
+  "category": "motion",
+  "title": {
+    "pt": "ITAÚ MESA DE PERFORMANCE - 2023",
+    "en": "TRANSLATE:ITAÚ MESA DE PERFORMANCE - 2023"
+  },
+  "description": {
+    "pt": "",
+    "en": "TRANSLATE:"
+  },
+  "thumbnail": {
+    "src": "/images/projects/ITAU-MESA-DE-PERFORMANCE-2023-thumb.webp",
+    "alt": {
+      "pt": "ITAÚ MESA DE PERFORMANCE - 2023",
+      "en": "TRANSLATE:ITAÚ MESA DE PERFORMANCE - 2023"
+    },
+    "width": 1600,
+    "height": 1000
+  },
+  "media": [
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/UHMuvYUAgZF/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "ITAU-MESA-DE-PERFORMANCE-2023",
+        "en": "TRANSLATE:ITAU-MESA-DE-PERFORMANCE-2023"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/I8Jv5MYnU6_/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "ITAU-MESA-DE-PERFORMANCE-2023",
+        "en": "TRANSLATE:ITAU-MESA-DE-PERFORMANCE-2023"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/JB3sGdQFuLe/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "ITAU-MESA-DE-PERFORMANCE-2023",
+        "en": "TRANSLATE:ITAU-MESA-DE-PERFORMANCE-2023"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/2zXh2aBjpUi/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "ITAU-MESA-DE-PERFORMANCE-2023",
+        "en": "TRANSLATE:ITAU-MESA-DE-PERFORMANCE-2023"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/Qy5XhDIGk_A/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "ITAU-MESA-DE-PERFORMANCE-2023",
+        "en": "TRANSLATE:ITAU-MESA-DE-PERFORMANCE-2023"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/IYBXpowHwzo/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "ITAU-MESA-DE-PERFORMANCE-2023",
+        "en": "TRANSLATE:ITAU-MESA-DE-PERFORMANCE-2023"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/GP-Hv5QuzBd/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "ITAU-MESA-DE-PERFORMANCE-2023",
+        "en": "TRANSLATE:ITAU-MESA-DE-PERFORMANCE-2023"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/NJgLPUPEChP/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "ITAU-MESA-DE-PERFORMANCE-2023",
+        "en": "TRANSLATE:ITAU-MESA-DE-PERFORMANCE-2023"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/HvrjVky3Ujn/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "ITAU-MESA-DE-PERFORMANCE-2023",
+        "en": "TRANSLATE:ITAU-MESA-DE-PERFORMANCE-2023"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/ULXW2QJDeqs/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "ITAU-MESA-DE-PERFORMANCE-2023",
+        "en": "TRANSLATE:ITAU-MESA-DE-PERFORMANCE-2023"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/TTKaFR5xCP7/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "ITAU-MESA-DE-PERFORMANCE-2023",
+        "en": "TRANSLATE:ITAU-MESA-DE-PERFORMANCE-2023"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/DrVSiFGhGp7/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "ITAU-MESA-DE-PERFORMANCE-2023",
+        "en": "TRANSLATE:ITAU-MESA-DE-PERFORMANCE-2023"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/-K3e2EnzK5d/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "ITAU-MESA-DE-PERFORMANCE-2023",
+        "en": "TRANSLATE:ITAU-MESA-DE-PERFORMANCE-2023"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/LS5U5iTdxmB/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "ITAU-MESA-DE-PERFORMANCE-2023",
+        "en": "TRANSLATE:ITAU-MESA-DE-PERFORMANCE-2023"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/FYzw5zzJNm8/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "ITAU-MESA-DE-PERFORMANCE-2023",
+        "en": "TRANSLATE:ITAU-MESA-DE-PERFORMANCE-2023"
+      }
+    }
+  ],
+  "tools": [
+    "Adobe After Effects",
+    "Figma",
+    "Adobe XD",
+    "Adobe Photoshop",
+    "Adobe Illustrator"
+  ],
+  "date": "2024-01",
+  "featured": false,
+  "links": [
+    {
+      "label": {
+        "pt": "Ver no Behance",
+        "en": "View on Behance"
+      },
+      "url": "https://www.behance.net/gallery/190249757/ITAU-MESA-DE-PERFORMANCE-2023"
+    }
+  ]
+}

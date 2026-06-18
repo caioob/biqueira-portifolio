@@ -1,0 +1,68 @@
+{
+  "id": "p-008",
+  "slug": "DIAGEO-THE-BAR-JOHNNIE-WALKER-ELUSIVE-UMAMI-CRM",
+  "category": "graphic",
+  "title": {
+    "pt": "DIAGEO / THE-BAR - JOHNNIE WALKER ELUSIVE UMAMI (CRM)",
+    "en": "TRANSLATE:DIAGEO / THE-BAR - JOHNNIE WALKER ELUSIVE UMAMI (CRM)"
+  },
+  "description": {
+    "pt": "",
+    "en": "TRANSLATE:"
+  },
+  "thumbnail": {
+    "src": "/images/projects/DIAGEO-THE-BAR-JOHNNIE-WALKER-ELUSIVE-UMAMI-CRM-thumb.webp",
+    "alt": {
+      "pt": "DIAGEO / THE-BAR - JOHNNIE WALKER ELUSIVE UMAMI (CRM)",
+      "en": "TRANSLATE:DIAGEO / THE-BAR - JOHNNIE WALKER ELUSIVE UMAMI (CRM)"
+    },
+    "width": 1600,
+    "height": 1000
+  },
+  "media": [
+    {
+      "type": "image",
+      "src": "/images/projects/DIAGEO-THE-BAR-JOHNNIE-WALKER-ELUSIVE-UMAMI-CRM-1.webp",
+      "alt": {
+        "pt": "Image may contain: book, screenshot and poster",
+        "en": "TRANSLATE:Image may contain: book, screenshot and poster"
+      },
+      "width": 600,
+      "height": 2590
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/DIAGEO-THE-BAR-JOHNNIE-WALKER-ELUSIVE-UMAMI-CRM-2.webp",
+      "alt": {
+        "pt": "Image may contain: book, poster and screenshot",
+        "en": "TRANSLATE:Image may contain: book, poster and screenshot"
+      },
+      "width": 600,
+      "height": 2590
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/DIAGEO-THE-BAR-JOHNNIE-WALKER-ELUSIVE-UMAMI-CRM-3.webp",
+      "alt": {
+        "pt": "Image may contain: screenshot, poster and book",
+        "en": "TRANSLATE:Image may contain: screenshot, poster and book"
+      },
+      "width": 600,
+      "height": 1966
+    }
+  ],
+  "tools": [
+    "Adobe Photoshop"
+  ],
+  "date": "2026-02",
+  "featured": false,
+  "links": [
+    {
+      "label": {
+        "pt": "Ver no Behance",
+        "en": "View on Behance"
+      },
+      "url": "https://www.behance.net/gallery/243405853/DIAGEO-THE-BAR-JOHNNIE-WALKER-ELUSIVE-UMAMI-%28CRM%29"
+    }
+  ]
+}

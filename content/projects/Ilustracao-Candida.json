@@ -1,0 +1,56 @@
+{
+  "id": "p-041",
+  "slug": "Ilustracao-Candida",
+  "category": "graphic",
+  "title": {
+    "pt": "Ilustração - Cândida",
+    "en": "Ilustração - Cândida"
+  },
+  "description": {
+    "pt": "Presente de aniversário para uma professora de criação da Casper Libero",
+    "en": "Presente de aniversário para uma professora de criação da Casper Libero"
+  },
+  "thumbnail": {
+    "src": "/images/projects/Ilustracao-Candida-thumb.webp",
+    "alt": {
+      "pt": "Ilustração - Cândida",
+      "en": "Ilustração - Cândida"
+    },
+    "width": 1600,
+    "height": 1000
+  },
+  "media": [
+    {
+      "type": "image",
+      "src": "/images/projects/Ilustracao-Candida-1.webp",
+      "alt": {
+        "pt": "Ilustracao-Candida",
+        "en": "Ilustracao-Candida"
+      },
+      "width": 1132,
+      "height": 1200
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/Ilustracao-Candida-2.webp",
+      "alt": {
+        "pt": "Ilustracao-Candida",
+        "en": "Ilustracao-Candida"
+      },
+      "width": 1366,
+      "height": 768
+    }
+  ],
+  "tools": [],
+  "date": "2017-03",
+  "featured": false,
+  "links": [
+    {
+      "label": {
+        "pt": "Ver no Behance",
+        "en": "View on Behance"
+      },
+      "url": "https://www.behance.net/gallery/49960237/Ilustracao-Candida"
+    }
+  ]
+}

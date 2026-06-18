@@ -7,9 +7,9 @@
 
 backend:
   name: github
-  repo: caioob/joao-kalaf-portifolio
+  repo: PLACEHOLDER/biqueira-portifolio
   branch: main
-  base_url: https://joao-kalaf-portifolio.vercel.app # OAuth proxy origin (Step 4)
+  base_url: https://biqueira-portifolio.vercel.app # OAuth proxy origin (Step 4)
   auth_endpoint: /api/auth
 
 # When true, Decap talks to the local `npx decap-server` proxy and edits the
@@ -41,7 +41,7 @@ collections:
         widget: string
         hint: 'Filename + URL. Letters, numbers and hyphens only.'
         pattern: ['^[A-Za-z0-9-]+$', 'Only letters, numbers and hyphens']
-      - { name: category, label: Category, widget: select, options: [video, motion, product, graphic] }
+      - { name: category, label: Category, widget: select, options: [motion, graphic] }
       - name: date
         label: Date
         widget: string
@@ -152,7 +152,7 @@ collections:
             label: Services
             widget: list
             fields:
-              - { name: id, label: Category, widget: select, options: [video, motion, product, graphic] }
+              - { name: id, label: Category, widget: select, options: [motion, graphic] }
               - name: name
                 label: Name
                 widget: object

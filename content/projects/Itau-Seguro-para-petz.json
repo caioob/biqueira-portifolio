@@ -1,0 +1,79 @@
+{
+  "id": "p-012",
+  "slug": "Itau-Seguro-para-petz",
+  "category": "graphic",
+  "title": {
+    "pt": "Itaú - Seguro para petz",
+    "en": "Itaú - Seguro para petz"
+  },
+  "description": {
+    "pt": "",
+    "en": ""
+  },
+  "thumbnail": {
+    "src": "/images/projects/Itau-Seguro-para-petz-thumb.webp",
+    "alt": {
+      "pt": "Itaú - Seguro para petz",
+      "en": "Itaú - Seguro para petz"
+    },
+    "width": 1600,
+    "height": 1000
+  },
+  "media": [
+    {
+      "type": "image",
+      "src": "/images/projects/Itau-Seguro-para-petz-1.webp",
+      "alt": {
+        "pt": "Image may contain: screenshot and cartoon",
+        "en": "Image may contain: screenshot and cartoon"
+      },
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/Itau-Seguro-para-petz-2.webp",
+      "alt": {
+        "pt": "Image may contain: cartoon, illustration and vector graphics",
+        "en": "Image may contain: cartoon, illustration and vector graphics"
+      },
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/Itau-Seguro-para-petz-3.webp",
+      "alt": {
+        "pt": "Image may contain: abstract",
+        "en": "Image may contain: abstract"
+      },
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/Itau-Seguro-para-petz-4.webp",
+      "alt": {
+        "pt": "Image may contain: abstract, cartoon and creativity",
+        "en": "Image may contain: abstract, cartoon and creativity"
+      },
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "tools": [
+    "Adobe Photoshop",
+    "Adobe Illustrator"
+  ],
+  "date": "2024-10",
+  "featured": false,
+  "links": [
+    {
+      "label": {
+        "pt": "Ver no Behance",
+        "en": "View on Behance"
+      },
+      "url": "https://www.behance.net/gallery/209177463/Itau-Seguro-para-petz"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "p-042",
+  "slug": "Ilustracao-Cassis-in-the-space",
+  "category": "graphic",
+  "title": {
+    "pt": "Ilustração - Cassis in the space",
+    "en": "TRANSLATE:Ilustração - Cassis in the space"
+  },
+  "description": {
+    "pt": "",
+    "en": "TRANSLATE:"
+  },
+  "thumbnail": {
+    "src": "/images/projects/Ilustracao-Cassis-in-the-space-thumb.webp",
+    "alt": {
+      "pt": "Ilustração - Cassis in the space",
+      "en": "TRANSLATE:Ilustração - Cassis in the space"
+    },
+    "width": 1600,
+    "height": 1000
+  },
+  "media": [
+    {
+      "type": "image",
+      "src": "/images/projects/Ilustracao-Cassis-in-the-space-1.webp",
+      "alt": {
+        "pt": "Ilustracao-Cassis-in-the-space",
+        "en": "TRANSLATE:Ilustracao-Cassis-in-the-space"
+      },
+      "width": 1280,
+      "height": 1024
+    }
+  ],
+  "tools": [
+    "Painttool Sai",
+    "Adobe Photoshop"
+  ],
+  "date": "2017-03",
+  "featured": false,
+  "links": [
+    {
+      "label": {
+        "pt": "Ver no Behance",
+        "en": "View on Behance"
+      },
+      "url": "https://www.behance.net/gallery/49960439/Ilustracao-Cassis-in-the-space"
+    }
+  ]
+}

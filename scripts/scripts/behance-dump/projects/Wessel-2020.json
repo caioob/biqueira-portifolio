@@ -1,0 +1,118 @@
+{
+  "id": "p-021",
+  "slug": "Wessel-2020",
+  "category": "graphic",
+  "title": {
+    "pt": "Wessel - 2020",
+    "en": "TRANSLATE:Wessel - 2020"
+  },
+  "description": {
+    "pt": "",
+    "en": "TRANSLATE:"
+  },
+  "thumbnail": {
+    "src": "/images/projects/Wessel-2020-thumb.webp",
+    "alt": {
+      "pt": "Wessel - 2020",
+      "en": "TRANSLATE:Wessel - 2020"
+    },
+    "width": 1600,
+    "height": 1000
+  },
+  "media": [
+    {
+      "type": "image",
+      "src": "/images/projects/Wessel-2020-1.webp",
+      "alt": {
+        "pt": "Wessel-2020",
+        "en": "TRANSLATE:Wessel-2020"
+      },
+      "width": 808,
+      "height": 632
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/F7haGRcX4aY/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Wessel-2020",
+        "en": "TRANSLATE:Wessel-2020"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/VmpQziIfgM_/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Wessel-2020",
+        "en": "TRANSLATE:Wessel-2020"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/SZ_pzbNZj2q/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Wessel-2020",
+        "en": "TRANSLATE:Wessel-2020"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/VqNVzx3ewCU/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Wessel-2020",
+        "en": "TRANSLATE:Wessel-2020"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/Qp_fTco7yCr/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Wessel-2020",
+        "en": "TRANSLATE:Wessel-2020"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/VSkUmzd4Sea/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Wessel-2020",
+        "en": "TRANSLATE:Wessel-2020"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/8ZVqyujTRZp/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Wessel-2020",
+        "en": "TRANSLATE:Wessel-2020"
+      }
+    },
+    {
+      "type": "video",
+      "provider": "adobe-ccv",
+      "videoId": "https://www-ccv.adobe.io/v1/player/ccv/NR9uzhN9UPy/embed?api_key=behance1&bgcolor=%23191919",
+      "title": {
+        "pt": "Wessel-2020",
+        "en": "TRANSLATE:Wessel-2020"
+      }
+    }
+  ],
+  "tools": [],
+  "date": "2020-12",
+  "featured": false,
+  "links": [
+    {
+      "label": {
+        "pt": "Ver no Behance",
+        "en": "View on Behance"
+      },
+      "url": "https://www.behance.net/gallery/109558659/Wessel-2020"
+    }
+  ]
+}

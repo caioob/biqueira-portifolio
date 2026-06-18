@@ -1,41 +1,19 @@
 {
-  "name": "João Kalaf",
+  "name": "bibi silva",
   "tagline": {
-    "pt": "Motion Designer / Videomaker / Artist",
-    "en": "Motion Designer / Videomaker / Artist"
+    "pt": "Ilustrador - Designer - Motion",
+    "en": "Ilustrador - Designer - Motion"
   },
   "bio": {
-    "pt": "Motion Designer / Videomaker / Artist",
-    "en": "Motion Designer / Videomaker / Artist"
+    "pt": "Ilustrador - Designer - Motion",
+    "en": "Ilustrador - Designer - Motion"
   },
   "services": [
-    {
-      "id": "video",
-      "name": {
-        "pt": "Edição de Vídeo",
-        "en": "Video Editing"
-      },
-      "blurb": {
-        "pt": "placeholder",
-        "en": "placeholder"
-      }
-    },
     {
       "id": "motion",
       "name": {
         "pt": "Motion Design",
         "en": "Motion Design"
-      },
-      "blurb": {
-        "pt": "placeholder",
-        "en": "placeholder"
-      }
-    },
-    {
-      "id": "product",
-      "name": {
-        "pt": "Product Design",
-        "en": "Product Design"
       },
       "blurb": {
         "pt": "placeholder",
@@ -55,6 +33,11 @@
     }
   ],
   "email": "",
-  "socials": [],
+  "socials": [
+    {
+      "label": "LinkedIn",
+      "url": "http://linkedin.com/in/beatrizhssilva/"
+    }
+  ],
   "photo": null
 }

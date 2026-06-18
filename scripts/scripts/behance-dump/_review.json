@@ -1,63 +1,332 @@
 {
-  "profileUrl": "https://www.behance.net/joaokalaf",
-  "scrapedAt": "2026-06-17T23:27:00.032Z",
-  "projectCount": 15,
+  "profileUrl": "https://www.behance.net/biqueira",
+  "scrapedAt": "2026-06-18T04:33:34.077Z",
+  "projectCount": 47,
   "warnings": [
     {
       "projectId": "p-001",
-      "slug": "Zoho-Event-Film-Motion-Brand-Content",
-      "field": "category",
-      "message": "No matching creative field; defaulted to 'graphic'",
-      "behanceFields": []
-    },
-    {
-      "projectId": "p-004",
-      "slug": "OVO",
+      "slug": "DIAGEO-THE-BAR-GUINNESS",
       "field": "category",
       "message": "No matching creative field; defaulted to 'graphic'",
       "behanceFields": [
-        "embalagem",
-        "design",
-        "egg"
+        "email marketing",
+        "Social media post",
+        "Socialmedia",
+        "photoshop"
+      ]
+    },
+    {
+      "projectId": "p-002",
+      "slug": "DIAGEO-THE-BAR-Smirnoff-Carnaval-CRM",
+      "field": "category",
+      "message": "No matching creative field; defaulted to 'graphic'",
+      "behanceFields": [
+        "email marketing",
+        "WhatsApp",
+        "social media",
+        "post",
+        "photoshop",
+        "Social media post",
+        "Socialmedia"
+      ]
+    },
+    {
+      "projectId": "p-003",
+      "slug": "DIAGEO-THE-BAR-SMIRNOFF-LOLAPALOOZA-BRASIL-2025",
+      "field": "category",
+      "message": "No matching creative field; defaulted to 'graphic'",
+      "behanceFields": [
+        "email marketing",
+        "Email",
+        "emkt"
+      ]
+    },
+    {
+      "projectId": "p-006",
+      "slug": "DIAGEO-THE-BAR-COLLAB-KUBA-JOHNNIE-WALKER",
+      "field": "category",
+      "message": "No matching creative field; defaulted to 'graphic'",
+      "behanceFields": [
+        "email marketing",
+        "Email",
+        "emkt",
+        "WhatsApp",
+        "Social media post"
+      ]
+    },
+    {
+      "projectId": "p-007",
+      "slug": "DIAGEO-THE-BAR-TANQUERAY-BOSSA-NOVA-MONIN",
+      "field": "category",
+      "message": "No matching creative field; defaulted to 'graphic'",
+      "behanceFields": [
+        "email marketing",
+        "emkt",
+        "Email Design",
+        "newsletter",
+        "Email",
+        "design"
+      ]
+    },
+    {
+      "projectId": "p-008",
+      "slug": "DIAGEO-THE-BAR-JOHNNIE-WALKER-ELUSIVE-UMAMI-CRM",
+      "field": "category",
+      "message": "No matching creative field; defaulted to 'graphic'",
+      "behanceFields": [
+        "emkt",
+        "email marketing",
+        "Email",
+        "newsletter",
+        "email template",
+        "design"
       ]
     },
     {
       "projectId": "p-010",
-      "slug": "Dragoes-urbanos",
-      "field": "category",
-      "message": "No matching creative field; defaulted to 'graphic'",
-      "behanceFields": []
-    },
-    {
-      "projectId": "p-011",
-      "slug": "mao-figurativa",
-      "field": "category",
-      "message": "No matching creative field; defaulted to 'graphic'",
-      "behanceFields": []
-    },
-    {
-      "projectId": "p-012",
-      "slug": "estampa-para-moletom-e-camiseta",
+      "slug": "DIAGEO-THE-BAR-LANCAMENTO-BOSSA-NOVA-TANQUERAY",
       "field": "category",
       "message": "No matching creative field; defaulted to 'graphic'",
       "behanceFields": [
-        "artwork",
-        "design",
-        "Drawing ",
-        "painting  ",
-        "t-shirt",
-        "vector"
+        "CRM",
+        "mailing",
+        "mailchimp"
+      ]
+    },
+    {
+      "projectId": "p-011",
+      "slug": "Itaushop-CASES-DE-AMOR-TE-QUERO-DE-VOLTA",
+      "field": "category",
+      "message": "No matching creative field; defaulted to 'graphic'",
+      "behanceFields": [
+        "Social media post",
+        "Performance",
+        "Ecommerce",
+        "Figma"
       ]
     },
     {
       "projectId": "p-014",
-      "slug": "animacao-de-robo",
+      "slug": "ILUSTRACAO-2022",
       "field": "category",
       "message": "No matching creative field; defaulted to 'graphic'",
       "behanceFields": []
+    },
+    {
+      "projectId": "p-016",
+      "slug": "MELITTA-BRASIL-PROJETOS-INTERNOS",
+      "field": "category",
+      "message": "No matching creative field; defaulted to 'graphic'",
+      "behanceFields": []
+    },
+    {
+      "projectId": "p-017",
+      "slug": "RISQUE-SOCIAL-MEDIA-2021-2022",
+      "field": "category",
+      "message": "No matching creative field; defaulted to 'graphic'",
+      "behanceFields": [
+        "marketing  ",
+        "post",
+        "social media",
+        "Socialmedia"
+      ]
+    },
+    {
+      "projectId": "p-021",
+      "slug": "Wessel-2020",
+      "field": "category",
+      "message": "No matching creative field; defaulted to 'graphic'",
+      "behanceFields": []
+    },
+    {
+      "projectId": "p-022",
+      "slug": "Dengo-2020",
+      "field": "category",
+      "message": "No matching creative field; defaulted to 'graphic'",
+      "behanceFields": []
+    },
+    {
+      "projectId": "p-023",
+      "slug": "Abbraccio-2020",
+      "field": "category",
+      "message": "No matching creative field; defaulted to 'graphic'",
+      "behanceFields": []
+    },
+    {
+      "projectId": "p-024",
+      "slug": "Portal-Eltrico-2020",
+      "field": "category",
+      "message": "No matching creative field; defaulted to 'graphic'",
+      "behanceFields": []
+    },
+    {
+      "projectId": "p-025",
+      "slug": "Mundo-Verde-2020",
+      "field": "category",
+      "message": "No matching creative field; defaulted to 'graphic'",
+      "behanceFields": []
+    },
+    {
+      "projectId": "p-026",
+      "slug": "Biocap-Hidramais-Redes-Sociais",
+      "field": "category",
+      "message": "No matching creative field; defaulted to 'graphic'",
+      "behanceFields": []
+    },
+    {
+      "projectId": "p-027",
+      "slug": "Ilustracoes-2020",
+      "field": "category",
+      "message": "No matching creative field; defaulted to 'graphic'",
+      "behanceFields": []
+    },
+    {
+      "projectId": "p-028",
+      "slug": "Social-Media-Marisa-Ramirez",
+      "field": "category",
+      "message": "No matching creative field; defaulted to 'graphic'",
+      "behanceFields": []
+    },
+    {
+      "projectId": "p-029",
+      "slug": "IM-PERFEITAS",
+      "field": "category",
+      "message": "No matching creative field; defaulted to 'graphic'",
+      "behanceFields": []
+    },
+    {
+      "projectId": "p-030",
+      "slug": "Apartamentos-Tatuap-20181",
+      "field": "category",
+      "message": "No matching creative field; defaulted to 'graphic'",
+      "behanceFields": []
+    },
+    {
+      "projectId": "p-031",
+      "slug": "Ilustracao-Victor-Hugo-Sobral",
+      "field": "category",
+      "message": "No matching creative field; defaulted to 'graphic'",
+      "behanceFields": []
+    },
+    {
+      "projectId": "p-032",
+      "slug": "Construtora-LINC-2018",
+      "field": "category",
+      "message": "No matching creative field; defaulted to 'graphic'",
+      "behanceFields": []
+    },
+    {
+      "projectId": "p-033",
+      "slug": "Temaki-Station-2018-2019",
+      "field": "category",
+      "message": "No matching creative field; defaulted to 'graphic'",
+      "behanceFields": []
+    },
+    {
+      "projectId": "p-034",
+      "slug": "Ilustracao-Luana-Ferreira",
+      "field": "category",
+      "message": "No matching creative field; defaulted to 'graphic'",
+      "behanceFields": []
+    },
+    {
+      "projectId": "p-035",
+      "slug": "Hersheys-Stop-Motion",
+      "field": "category",
+      "message": "No matching creative field; defaulted to 'graphic'",
+      "behanceFields": [
+        "chocolate hersheys",
+        "chocolate",
+        "premiere",
+        "video",
+        "brand",
+        "stop motion",
+        "Brazil"
+      ]
+    },
+    {
+      "projectId": "p-036",
+      "slug": "Prudence-Plastic-Is-Fantastic",
+      "field": "category",
+      "message": "No matching creative field; defaulted to 'graphic'",
+      "behanceFields": [
+        "CAMISINHA",
+        "prudence",
+        "Brazil",
+        "design",
+        "clothers",
+        "Fashion ",
+        "plastic"
+      ]
+    },
+    {
+      "projectId": "p-037",
+      "slug": "Fecap-Cases-207-Lovebrands",
+      "field": "category",
+      "message": "No matching creative field; defaulted to 'graphic'",
+      "behanceFields": []
+    },
+    {
+      "projectId": "p-038",
+      "slug": "Landing-Page-Fotos-Sensacionais-Antes-de-Mim",
+      "field": "category",
+      "message": "No matching creative field; defaulted to 'graphic'",
+      "behanceFields": [
+        "baby",
+        "colors",
+        "landing page",
+        "Infografy"
+      ]
+    },
+    {
+      "projectId": "p-039",
+      "slug": "Semana-da-Comunicacao-FECAP-ETICA-NA-COMUNICACAO",
+      "field": "category",
+      "message": "No matching creative field; defaulted to 'graphic'",
+      "behanceFields": []
+    },
+    {
+      "projectId": "p-042",
+      "slug": "Ilustracao-Cassis-in-the-space",
+      "field": "category",
+      "message": "No matching creative field; defaulted to 'graphic'",
+      "behanceFields": [
+        "illsutartion",
+        "Ilustração",
+        "crayon",
+        "cartoon",
+        "alien",
+        "Cat"
+      ]
+    },
+    {
+      "projectId": "p-043",
+      "slug": "Ilustracao-Casiopia",
+      "field": "category",
+      "message": "No matching creative field; defaulted to 'graphic'",
+      "behanceFields": [
+        "Ilustração",
+        "illustratio",
+        "cartoon",
+        "painttool sai",
+        "alien"
+      ]
+    },
+    {
+      "projectId": "p-045",
+      "slug": "Ilustracao-Sailor-Poo",
+      "field": "category",
+      "message": "No matching creative field; defaulted to 'graphic'",
+      "behanceFields": [
+        "Ilustração",
+        "cartoon",
+        "anime",
+        "sailor moon",
+        "painttool sai"
+      ]
     }
   ],
   "skippedModules": [],
-  "untranslatedFields": 144,
+  "untranslatedFields": 411,
   "missingImages": 0
 }

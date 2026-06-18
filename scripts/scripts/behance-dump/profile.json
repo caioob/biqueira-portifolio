@@ -1,12 +1,12 @@
 {
-  "name": "João Kalaf",
+  "name": "bibi silva",
   "tagline": {
-    "pt": "Motion Designer / Videomaker / Artist",
-    "en": "Motion Designer / Videomaker / Artist"
+    "pt": "Ilustrador - Designer - Motion",
+    "en": "Ilustrador - Designer - Motion"
   },
   "bio": {
-    "pt": "Motion Designer / Videomaker / Artist",
-    "en": "Motion Designer / Videomaker / Artist"
+    "pt": "Ilustrador - Designer - Motion",
+    "en": "Ilustrador - Designer - Motion"
   },
   "services": [
     {
@@ -55,6 +55,11 @@
     }
   ],
   "email": "",
-  "socials": [],
+  "socials": [
+    {
+      "label": "",
+      "url": "http://linkedin.com/in/beatrizhssilva/"
+    }
+  ],
   "photo": null
 }

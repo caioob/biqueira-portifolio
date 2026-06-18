@@ -1,0 +1,60 @@
+{
+  "id": "p-011",
+  "slug": "Itaushop-CASES-DE-AMOR-TE-QUERO-DE-VOLTA",
+  "category": "graphic",
+  "title": {
+    "pt": "Itaúshop - CASES DE AMOR + TE QUERO DE VOLTA",
+    "en": "TRANSLATE:Itaúshop - CASES DE AMOR + TE QUERO DE VOLTA"
+  },
+  "description": {
+    "pt": "",
+    "en": "TRANSLATE:"
+  },
+  "thumbnail": {
+    "src": "/images/projects/Itaushop-CASES-DE-AMOR-TE-QUERO-DE-VOLTA-thumb.webp",
+    "alt": {
+      "pt": "Itaúshop - CASES DE AMOR + TE QUERO DE VOLTA",
+      "en": "TRANSLATE:Itaúshop - CASES DE AMOR + TE QUERO DE VOLTA"
+    },
+    "width": 1600,
+    "height": 1000
+  },
+  "media": [
+    {
+      "type": "image",
+      "src": "/images/projects/Itaushop-CASES-DE-AMOR-TE-QUERO-DE-VOLTA-1.webp",
+      "alt": {
+        "pt": "Image may contain: home appliance and small appliance",
+        "en": "TRANSLATE:Image may contain: home appliance and small appliance"
+      },
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "image",
+      "src": "/images/projects/Itaushop-CASES-DE-AMOR-TE-QUERO-DE-VOLTA-2.webp",
+      "alt": {
+        "pt": "Image may contain: home appliance",
+        "en": "TRANSLATE:Image may contain: home appliance"
+      },
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "tools": [
+    "Adobe Photoshop",
+    "Adobe Illustrator",
+    "Figma"
+  ],
+  "date": "2024-10",
+  "featured": false,
+  "links": [
+    {
+      "label": {
+        "pt": "Ver no Behance",
+        "en": "View on Behance"
+      },
+      "url": "https://www.behance.net/gallery/209178807/Itaushop-CASES-DE-AMOR-TE-QUERO-DE-VOLTA"
+    }
+  ]
+}
