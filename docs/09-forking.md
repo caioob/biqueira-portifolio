@@ -15,6 +15,7 @@ content validation, image pipeline, and CMS schema carry over untouched.
 | --- | --- |
 | GitHub repo (Decap backend) | `public/admin/config.yml` → `backend.repo` |
 | Vercel URL (OAuth origin) | `public/admin/config.yml` → `base_url`; `index.html` → `canonical`, `og:url`, `og:image`, `twitter:image` |
+| CMS admin page title | `public/admin/index.html` → `<title>` |
 | Brand strings | `index.html` → `title`, `description`, `og:title`, `og:image:alt` |
 | Package name | `package.json` → `name` |
 | Design (color, fonts, …) | `src/styles/theme.css` tokens (design-system §8 runbook) |

@@ -7,7 +7,7 @@
 
 backend:
   name: github
-  repo: PLACEHOLDER/biqueira-portifolio
+  repo: caioob/biqueira-portifolio
   branch: main
   base_url: https://biqueira-portifolio.vercel.app # OAuth proxy origin (Step 4)
   auth_endpoint: /api/auth
