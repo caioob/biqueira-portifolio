@@ -1,0 +1,11 @@
+node_modules
+dist
+*.local
+*.log
+.DS_Store
+.idea
+.obsidian
+.vscode/*
+!.vscode/extensions.json
+.vercel
+.env*
