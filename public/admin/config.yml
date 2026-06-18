@@ -177,10 +177,11 @@ collections:
             widget: object
             required: false
             fields:
-              - { name: src, label: Image, widget: image }
+              - { name: src, label: Image, widget: image, required: false }
               - name: alt
                 label: Alt text
                 widget: object
+                required: false
                 fields:
-                  - { name: pt, label: Português, widget: string }
-                  - { name: en, label: English, widget: string }
+                  - { name: pt, label: Português, widget: string, required: false }
+                  - { name: en, label: English, widget: string, required: false }
